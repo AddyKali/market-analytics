@@ -89,7 +89,7 @@ This system is made for academic submission and learning:
 
 B-Tech 5th Semester Project
 MGM College of Engineering and Technology
-Submitted by: Adarsh Kumar<br>
+Submitted by: Adarsh Kumar, Amit Rawat, Aditi Lodhi<br>
 
 🛠 Future Enhancements
 Feature	Status
